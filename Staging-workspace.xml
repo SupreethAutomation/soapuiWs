@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Avail" soapui-version="5.3.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="Project-TripAdvisor">F:/ARISHOP/2017/Project-TripAdvisor-soapui-project.xml</con:project>
+  <con:project name="Project-Trivago">F:/ARISHOP/2017/trivago/Trivago before Review/Project-Trivago-soapui-project.xml</con:project>
+  <con:project name="Resync">E:/#Rate Tiger Core/sprint 1/Resync-soapui-project.xml</con:project>
+  <con:project name="RateNotif">E:/#Rate Tiger Core/sprint 1/RateNotif-soapui-project.xml</con:project>
+  <con:project name="New Tax Applicable">E:/#Rate Tiger Core/sprint 1/New-Tax-Applicable-soapui-project.xml</con:project>
+  <con:project name="RTCore-172">E:/#Rate Tiger Core/sprint 2/RTCore-172-soapui-project.xml</con:project>
+  <con:project name="Reservation Smoke Suite- HotelBeds channel">F:/ARI-Reservation/automation/Working Projects/Reservation Smoke Suite working-soapui-project.xml</con:project>
+  <con:project name="DataSetup">E:/documents for supoort/soap projects/DataSetup-soapui-project.xml</con:project>
+  <con:project name="Project-Preprocessor-With IDs">E:/#Rate Tiger Core/sprint 1/pre processor with new tax/Project-Preprocessor-soapui-project.xml</con:project>
+  <con:project name="Project-TripAdvisor-Reservation">F:/ARISHOP/2017/Reservation Script BackUp/Project-TripAdvisor-Reservation-soapui-project.xml</con:project>
+  <con:project name="HotSoft">F:/ARISHOP/2017/HotSoft</con:project>
+  <con:project name="load Rate">E:/#Rate Tiger Core/sprint 3/HBase Load/load-Rate-soapui-project.xml</con:project>
+  <con:project name="Seamless Reservation-Automation">F:/ARI-Reservation/soap projects/Seamless-Reservation-Automation-soapui-project.xml</con:project>
+  <con:project name="Seamless Reservation-Manual">F:/ARI-Reservation/soap projects/ModifiedSeamless-Reservation-soapui-project.xml</con:project>
+  <con:project name="Reservation-RTCT_1297_U1(a)">F:/ARI-Reservation/automation/Working Projects/Reservation-RTCT Single Commit with Multiple Modify and a Cancel-soapui-project.xml</con:project>
+  <con:project name="Connect-ReservationListener-Expedia">F:/ARI-Reservation/soap projects/Reservation-listener-expedia-working-soapui-project.xml</con:project>
+  <con:project name="Reservation_listener_expedia_working">F:/ARI-Reservation/nousheenReservation-listener-expedia-working-soapui-project.xml</con:project>
+  <con:project name="ARI-AVAIL">E:/documents for supoort/soap projects/zip/ARI-AVAIL-soapui-project.xml</con:project>
+  <con:project name="ARI-Rate Plan">E:/documents for supoort/soap projects/zip/ARI-Rate Plan-soapui-project.xml</con:project>
+  <con:project name="CoreService">E:/#Rate Tiger Core/sprint 7/RTCORE-801 - TA v8 analysis/TA V8/CoreService-soapui-project.xml</con:project>
+  <con:project name="RTSuite Pull">F:/ARI-Reservation/soap projects/RTSuite-Pull-soapui-project.xml</con:project>
+  <con:project name="ResCollectPull">E:/#Rate Tiger Core/sprint 14/ResCollectPull-soapui-project.xml</con:project>
+  <con:project name="Project-ARIShop_Core">E:/Automation-WS/SVN/Project-ARIShop_Core-soapui-project.xml</con:project>
+  <con:project name="ARIShopService-WS">E:/#Rate Tiger Core/sprint 17/ARIShopService-WS-soapui-project.xml</con:project>
+  <con:project name="RTConnect-Avail">E:/#Rate Tiger Core/sprint 18/PMS-RMS/RTConnect-Avail-soapui-project.xml</con:project>
+  <con:project name="Room Fetch Schedular-1">E:/#Rate Tiger Core/sprint 18/Roomfetch Schedular/RoomFetchSchedular-soapui-project.xml</con:project>
+  <con:project name="Interhome Service">E:/#Rate Tiger Core/sprint 18/Interhome core request.xml/Interhome Service-soapui-project.xml</con:project>
+  <con:project name="InterHome-ARIShop">E:/#Rate Tiger Core/sprint 18/ARIshop-Via reuqest.xml/InterHome-ARIShop-soapui-project.xml</con:project>
+  <con:project name="HTNGGenericListenerService-Reservation">E:/#Rate Tiger Core/sprint 18/HTNGGeneric Reservation/HTNGGenericListenerService-Reservation-soapui-project.xml</con:project>
+  <con:project name="RateplanService">F:/#ARI/Soap Automation Projects/ARI/ARI - Connect/RateplanService-soapui-project.xml</con:project>
+  <con:project name="AvailService">F:/#ARI/Soap Automation Projects/ARI/ARI - Connect/AvailService-soapui-project.xml</con:project>
+  <con:project name="Seamless New">E:/#Rate Tiger Core/sprint 18/Seamless-New-soapui-project.xml</con:project>
+  <con:project name="Cenium">F:/#CMWEB/Cenium-soapui-project.xml</con:project>
+  <con:project name="CMLV factor calculation">E:/#Scrum2/cenium/CMLV-factor-calculation-soapui-project.xml</con:project>
+  <con:project name="currency conversion">F:/#ARI/currency conversion-soapui-project.xml</con:project>
+  <con:project status="CLOSED" name="resync service">C:/Users/supreethv.EREVMAX/Documents/resync-service-soapui-project.xml</con:project>
+  <con:project name="loadCheck">E:/#Scrum2/#LOAD/loadCheck-soapui-project.xml</con:project>
+  <con:project status="CLOSED" name="REST Project 1">C:/Users/supreethv.EREVMAX/Documents/REST-Project-1-soapui-project.xml</con:project>
+  <con:project name="RooomTypeSchdular - Trunk">E:/#Scrum2/#STG/sprint 12/RTSchedular/RooomTypeSchdular---Trunk-soapui-project.xml</con:project>
+  <con:project name="Room Fetch Service UAT">E:/#Scrum2/#STG/sprint 12/RoomFetchSchedular/Room-Fetch-Service-UAT-soapui-project.xml</con:project>
+  <con:project name="bookingRule">F:/#ARI/bookingRule-soapui-project.xml</con:project>
+  <con:project name="avail migration">F:/#ARI/avail-migration-soapui-project.xml</con:project>
+  <con:project name="Partners">E:/#Scrum2/#STG/Migration Tasks/Ari Processings/PartnerRequests/Partners-soapui-project.xml</con:project>
+  <con:project name="RTCT pull">E:/#Scrum2/#STG/Migration Tasks/Ari Processings/PartnerRequests/RTCT-Pull-soapui-project.xml</con:project>
+  <con:project name="TAV7">F:/ARISHOP/2017/arishop serice workspaces/Tripadvisor V7</con:project>
+  <con:project status="CLOSED" name="Stg2Tourico">C:/Users/supreethv.EREVMAX/Downloads/Stg2Tourico-soapui-project (1).xml</con:project>
+  <con:project name="Reservation Listener">F:/ARISHOP/2017/arishop serice workspaces/Reservation-Listener-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>
